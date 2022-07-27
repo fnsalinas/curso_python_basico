@@ -5,8 +5,10 @@ name = "pypi"
 
 [packages]
 jupyterlab = "*"
+pandas = "*"
+pandas-profiling = "*"
+ipywidgets = "*"
 
 [dev-packages]
 
 [requires]
-
